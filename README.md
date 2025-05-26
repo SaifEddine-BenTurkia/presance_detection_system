@@ -127,31 +127,6 @@ A pipeline for real-time attendance tracking using face embeddings and Elasticse
 
    Opens camera GUI to register a new user (name + 5 snapshots → ES).
 
----
 
-## 📚 Further Resources
 
-* **Face Recognition** (dlib):
-  [https://github.com/ageitgey/face\_recognition](https://github.com/ageitgey/face_recognition)
-* **Elasticsearch Python Client**:
-  [https://elasticsearch-py.readthedocs.io](https://elasticsearch-py.readthedocs.io)
-* **Docker for Python**:
-  [https://docs.docker.com/samples/python/](https://docs.docker.com/samples/python/)
 
----
-
-## ✏️ Contribution
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/...`)
-3. Commit your changes and push (`git push origin feature/...`)
-4. Open a Pull Request
-
----
-
-## 📄 License
-
-MIT © Your Name
-
-```
-```
