@@ -12,7 +12,7 @@ A pipeline for real-time attendance tracking using face embeddings and Elasticse
 
 ## 📁 Project Structure
 
-```
+
 
 .
 ├── analyse.py
@@ -34,7 +34,7 @@ A pipeline for real-time attendance tracking using face embeddings and Elasticse
 │   └── main.py             # end-to-end demo on local video
 └── README.md
 
-````
+
 
 ---
 
