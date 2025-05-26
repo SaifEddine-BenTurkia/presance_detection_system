@@ -115,8 +115,10 @@ A pipeline for real-time attendance tracking using face embeddings and Elasticse
      ```
    * **OOP Pipeline on local video:**
 
+  the video already exists in the .implementation/assets
+
      ```bash
-     python implementation/main.py --video path/to/video.mp4
+     python implementation/main.py
      ```
 
 6. **Enrollment GUI**
